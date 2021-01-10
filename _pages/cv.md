@@ -11,49 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Schoo of Software, Tsinghua University, 2016.09 ~ 2020.06
+* M.S. in Department of Artificial Intelligence, Yonsei University, 2020.09 ~ Now
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Undergraduate student researcher at Tsinghua University, China(2019.09 ~ 2020.09)
+  * Point cloud feature extraction based on residual block (2019.09 ~ 2019.12)
+  * Feature learning of 3D point cloud model based on multi scale information fusion (2020.01 ~ 2020.06)
+  * Feature learning of 3D point cloud model based on saliency map (2020.07 ~ Now)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Master Student at CVPR Lab, Yonsei University(2020.09 ~ Now)
+  * Rethinking the correlation between activation map and weight in Weakly Supervised Object
+Localization (2020.10 ~ Now)
+
+Projects
+======
+* Content-based image retrieval with AlexNet
+* Person detection and alert web application using YOLO
+* GUI development based on XV6
+* Party comprehensive service program <Danpingmu>
+* Small database <TinyDB>
+* Weibo search engine
+* Wechat mini game <The Greate Escape>
+* BlackJack card game in assembly language
+* Gwent card game in QT language
+* Worms game in C language(MFC)
+More projects in github: https://github.com/tkdguraa
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Good ability of Python, Tensorflow, Pytorch, JavaScript, C++ and C Language
+* Linux and Docker
+* Front/Back end programming with Django, Node.js
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
