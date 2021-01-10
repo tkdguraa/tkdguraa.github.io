@@ -36,7 +36,7 @@ Projects
 * Wechat mini game <The Greate Escape>
 * BlackJack card game in assembly language
 * Gwent card game in QT language
-* Worms game in C language(MFC)
+* Worms game in C language(MFC)  
 More projects in github: https://github.com/tkdguraa
 
 Skills
