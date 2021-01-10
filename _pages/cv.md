@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Schoo of Software, Tsinghua University, 2016.09 ~ 2020.06
+* B.S. in School of Software, Tsinghua University, 2016.09 ~ 2020.06
 * M.S. in Department of Artificial Intelligence, Yonsei University, 2020.09 ~ Now
 
 Research experience
