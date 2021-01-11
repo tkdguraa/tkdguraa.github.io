@@ -31,9 +31,9 @@ Projects
 * Person detection and alert web application using YOLO
 * GUI development based on XV6
 * Party comprehensive service program <Danpingmu>
-* Small database <TinyDB>
+* Small database "TinyDB"
 * Weibo search engine
-* Wechat mini game <The Greate Escape>
+* Wechat mini game "The Greate Escape"
 * BlackJack card game in assembly language
 * Gwent card game in QT language
 * Worms game in C language(MFC)  
